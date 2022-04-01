@@ -19,9 +19,18 @@ Unreal Engine 4 Discord Rich Presence Plugin
 - Start Discord Timer
 - Stop Discord Timer
 
+> Tutorials
+- [Create Discord Application](https://discord.com/developers/applications)
+- Add https://127.0.0.1 URL to OAuth2 -> General -> Redirects
+- Create / Open Blueprint and Create Discord Object
+- Insert Application Id or Client Id in Your Discord Application ( General Information / OAuth2 )
+- Add Your Informations and Enjoy
 
 > Example Blueprint
 ![DiscordTutorial](https://cdn.discordapp.com/attachments/943100967199571988/959425832869314580/0001.PNG)
+
+> Tested Engine Versions
+- 4.27
 
 > Support To Me
 - [Official Website](https://69studio.ml)
